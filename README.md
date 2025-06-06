@@ -1,6 +1,6 @@
 # mid_test
 
-Tugas Ujian Tengah Semester <br>
+<b>Tugas Ujian Tengah Semester</b> <br>
 Mata Kuliah    : Pemrograman Perangkat Bergerak <br>
 Dosen Pengampu : Asep Indra Syahyadi, S.Kom., M.Kom <br>
 Nama           : M. Al Faiz <br>
