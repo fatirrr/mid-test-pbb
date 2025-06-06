@@ -1,8 +1,8 @@
 # mid_test
 
-Tugas Ujian Tengah Semester
-Mata Kuliah    : Pemrograman Perangkat Bergerak
-Dosen Pengampu : Asep Indra Syahyadi, S.Kom., M.Kom
-Nama           : M. Al Faiz
-NIM            : 60200123032
-Kelas          : A
+Tugas Ujian Tengah Semester <br>
+Mata Kuliah    : Pemrograman Perangkat Bergerak <br>
+Dosen Pengampu : Asep Indra Syahyadi, S.Kom., M.Kom <br>
+Nama           : M. Al Faiz <br>
+NIM            : 60200123032 <br>
+Kelas          : A <br>
